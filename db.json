@@ -152,18 +152,6 @@
       "autenticacaoId": "1"
     },
     {
-      "id": "6",
-      "nomeFantasia": "Geo Profunda Serviços",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "55.555.555/5555-55",
-      "solicitante": "",
-      "nome": "Nilson Lacerda",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 8888-8888",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
       "id": "7",
       "nomeFantasia": "Nexo Subterrâneo",
       "razaoSocial": "Nome Reduzido",
@@ -177,17 +165,6 @@
     }
   ],
   "usuarios": [
-    {
-      "id": "a1a9",
-      "nome": "Nilson Lacerda",
-      "telefone": "(11) 1111-1112",
-      "empresa": "Autônomo",
-      "cpf": "111.111.111-11",
-      "isActive": true,
-      "termosAceitos": true,
-      "politicaPrivacidadeAceita": true,
-      "autenticacaoId": "2"
-    },
     {
       "id": "9eaa",
       "nome": "Jan Gabriel de Sa Bittencourt Camara",
@@ -203,7 +180,7 @@
       "id": "4acc",
       "nome": "Jayme Lopes Abreu",
       "telefone": "(55) 5555-5555",
-      "empresa": "Geo Profunda Serviços",
+      "empresa": "Nome Forte",
       "isActive": true,
       "termosAceitos": true,
       "politicaPrivacidadeAceita": true,
@@ -218,38 +195,6 @@
       "termosAceitos": true,
       "politicaPrivacidadeAceita": true,
       "autenticacaoId": "1"
-    },
-    {
-      "id": "6d98",
-      "nome": "Luiz Gustavo De Oliveira Souza",
-      "telefone": "(77) 7777-7777",
-      "empresa": "Terra Profunda Engenharia",
-      "isActive": true,
-      "termosAceitos": true,
-      "politicaPrivacidadeAceita": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "182b",
-      "nome": "Farkas",
-      "telefone": "(22) 2222-2222",
-      "empresa": "Autônomo",
-      "cpf": "000.000.000-00",
-      "isActive": true,
-      "termosAceitos": true,
-      "politicaPrivacidadeAceita": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "3f19",
-      "nome": "Usuario Ads",
-      "telefone": "(22) 2222-2222",
-      "empresa": "Autônomo",
-      "cpf": "000.000.000-00",
-      "isActive": true,
-      "termosAceitos": true,
-      "politicaPrivacidadeAceita": true,
-      "autenticacaoId": "7daa"
     }
   ],
   "consultorias": [
@@ -259,7 +204,7 @@
       "nome": "Usuário 1",
       "telefone": "(00) 9999-9999",
       "email": "forte@ajuda.com",
-      "empresaContratada": "Empresa 2",
+      "empresaContratada": "Nexo Subterrâneo",
       "tipoSolicitacao": "Dúvida técnica",
       "descricao": "Cadastro pela plataforma",
       "anexos": [],
@@ -276,64 +221,10 @@
       "descricao": "sem is autonomo",
       "anexos": [],
       "autenticacaoId": "1"
-    },
-    {
-      "id": "aa43",
-      "protocolo": "2025example",
-      "nome": "Jayme Lopes Abreu",
-      "telefone": "(55) 5555-5555",
-      "email": "contato@sys4b.com.br",
-      "empresaContratada": "Geo Profunda Serviços",
-      "tipoSolicitacao": "Solicitação de visita",
-      "descricao": "Preenchimento 2",
-      "anexos": [],
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "7eb4",
-      "nome": "Jayme Lopes Abreu",
-      "protocolo": "202568137",
-      "telefone": "(55) 5555-5555",
-      "email": "contato@sys4b.com.br",
-      "empresaContratada": "Geo Profunda Serviços",
-      "tipoSolicitacao": "Dúvida técnica",
-      "descricao": "nomeResponsavel",
-      "anexos": [],
-      "autenticacaoId": "1"
     }
   ],
   "suporteObra": [
-    {
-      "id": "ad0d",
-      "protocolo": "202576872",
-      "notaServico": "12345",
-      "statusUsuario": "Pendente",
-      "etapaObra": "Início",
-      "nome": "Luiz Gustavo De Oliveira Souza",
-      "telefone": "(77) 7777-7777",
-      "email": "nilson@sys4b.com.br",
-      "emailResponsavel": [
         {
-          "email": "nilson@sys4b.com.br"
-        },
-        {
-          "email": "nilson.oliveira@sys4b.com.br"
-        }
-      ],
-      "endereco": "Rua do Pão de Queijo",
-      "executor": "Batata",
-      "contratada": "Nome Forte",
-      "dataInicio": "2025-09-23",
-      "dataFim": "2025-09-26",
-      "horaInicio": "15:23",
-      "horaFim": "16:24",
-      "tipoObra": "Detonação",
-      "isAcompanhamento": true,
-      "arquivo": null,
-      "observacoes": "Sem anexo",
-      "autenticacaoId": "1"
-    },
-    {
       "id": "e766",
       "protocolo": "202587964",
       "notaServico": "234567",
@@ -421,65 +312,6 @@
       "isAcompanhamento": true,
       "arquivo": null,
       "observacoes": "Testando a exclusão de anexo com envio null e mensagem de sucesso",
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "033e",
-      "protocolo": "202524853",
-      "notaServico": "567890",
-      "statusUsuario": "Pendente",
-      "etapaObra": "Início",
-      "nome": "Jayme Lopes Abreu",
-      "telefone": "(55) 5555-5555",
-      "email": "contato@sys4b.com.br",
-      "nomeResponsavel": "Jayme Lopes Abreu",
-      "telefoneResponsavel": "(55) 5555-5555",
-      "emailResponsavel": [
-        {
-          "email": "contato@sys4b.com.br"
-        },
-        {
-          "email": "asd@net.com"
-        }
-      ],
-      "endereco": "Esquina das Nações",
-      "contratada": "Nome Forte",
-      "dataInicio": "2025-10-02",
-      "dataFim": "2025-10-15",
-      "horaInicio": "17:45",
-      "horaFim": "17:45",
-      "tipoObra": "Detonação",
-      "isAcompanhamento": true,
-      "arquivo": null,
-      "observacoes": "Teste no mobile",
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "367e",
-      "protocolo": "202598601",
-      "notaServico": "791162025",
-      "statusUsuario": "Pendente",
-      "etapaObra": "Início",
-      "nome": "Jayme Lopes Abreu",
-      "telefone": "(55) 5555-5555",
-      "email": "contato@sys4b.com.br",
-      "nomeResponsavel": "Nome diferente",
-      "telefoneResponsavel": "(22) 2222-2222",
-      "emailResponsavel": [
-        {
-          "email": "contato@sys4b.com.br"
-        }
-      ],
-      "endereco": "nomeResponsavel",
-      "contratada": "Nexo Subterrâneo",
-      "dataInicio": "2025-10-03",
-      "dataFim": "2025-10-10",
-      "horaInicio": "16:17",
-      "horaFim": "16:17",
-      "tipoObra": "Detonação",
-      "isAcompanhamento": true,
-      "arquivo": null,
-      "observacoes": "nomeResponsavel",
       "autenticacaoId": "1"
     }
   ]
