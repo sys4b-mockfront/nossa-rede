@@ -33,61 +33,6 @@
       "telefone": "(33) 4444-4444",
       "isActive": true,
       "autenticacaoId": "1"
-    },
-    {
-      "id": "3",
-      "nome": "Eixo Profundo Construtora",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "22.222.222/2222-22",
-      "solicitante": "",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 5555-5555",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "4",
-      "nome": "Fundação Segura Construtora",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "33.333.333/3333-33",
-      "solicitante": "",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 6666-6666",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "5",
-      "nome": "Radix Engenharia Subterrânea",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "44.444.444/4444-44",
-      "solicitante": "",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 7777-7777",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "6",
-      "nome": "Geo Profunda Serviços",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "55.555.555/5555-55",
-      "solicitante": "",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 8888-8888",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "7",
-      "nome": "Nexo Subterrâneo",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "66.666.666/6666-66",
-      "solicitante": "",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 9999-9999",
-      "isActive": true,
-      "autenticacaoId": "1"
     }
   ],
   "empresas": [
@@ -112,54 +57,6 @@
       "nome": "Farkas",
       "email": "usuario@sys4b.com.br",
       "telefone": "(33) 4444-4444",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "3",
-      "nomeFantasia": "Eixo Profundo Construtora",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "22.222.222/2222-22",
-      "solicitante": "",
-      "nome": "Louise de Assis Sidorco",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 5555-5555",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "4",
-      "nomeFantasia": "Fundação Segura Construtora",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "33.333.333/3333-33",
-      "solicitante": "",
-      "nome": "Jan Gabriel de Sa Bittencourt Camara",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 6666-6666",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "5",
-      "nomeFantasia": "Radix Engenharia Subterrânea",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "44.444.444/4444-44",
-      "solicitante": "",
-      "nome": "Jayme Lopes Abreu",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 7777-7777",
-      "isActive": true,
-      "autenticacaoId": "1"
-    },
-    {
-      "id": "7",
-      "nomeFantasia": "Nexo Subterrâneo",
-      "razaoSocial": "Nome Reduzido",
-      "cnpj": "66.666.666/6666-66",
-      "solicitante": "",
-      "nome": "Luiz Gustavo De Oliveira Souza",
-      "email": "usuario@sys4b.com.br",
-      "telefone": "(33) 9999-9999",
       "isActive": true,
       "autenticacaoId": "1"
     }
