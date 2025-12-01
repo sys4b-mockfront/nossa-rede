@@ -6,6 +6,18 @@
       "code": "654321"
     },
     {
+      "id": "2",
+      "email": "contato@sys4b.com.br",
+      "nome": "Luiz Gustavo De Oliveira Souza",
+      "telefone": "(77) 7777-7777",
+      "empresa": "Sys4b Tecnologia",
+      "code": "654321",
+      "isActive": true,
+      "termosAceitos": true,
+      "politicaPrivacidadeAceita": true,
+      "autenticacaoId": "2"
+    },
+    {
       "id": "7daa",
       "email": "contato@comgas.com.br",
       "code": "123456"
@@ -33,6 +45,39 @@
       "telefone": "(33) 4444-4444",
       "isActive": true,
       "autenticacaoId": "1"
+    },
+    {
+      "id": "3",
+      "nome": "Eixo Profundo Construtora",
+      "razaoSocial": "Nome Reduzido",
+      "cnpj": "22.222.222/2222-22",
+      "solicitante": "",
+      "email": "usuario@sys4b.com.br",
+      "telefone": "(33) 5555-5555",
+      "isActive": true,
+      "autenticacaoId": "2"
+    },
+    {
+      "id": "4",
+      "nome": "Fundação Segura Construtora",
+      "razaoSocial": "Nome Reduzido",
+      "cnpj": "33.333.333/3333-33",
+      "solicitante": "",
+      "email": "usuario@sys4b.com.br",
+      "telefone": "(33) 6666-6666",
+      "isActive": true,
+      "autenticacaoId": "2"
+    },
+    {
+      "id": "5",
+      "nome": "Radix Engenharia Subterrânea",
+      "razaoSocial": "Nome Reduzido",
+      "cnpj": "44.444.444/4444-44",
+      "solicitante": "",
+      "email": "usuario@sys4b.com.br",
+      "telefone": "(33) 7777-7777",
+      "isActive": true,
+      "autenticacaoId": "2"
     }
   ],
   "empresas": [
@@ -59,6 +104,42 @@
       "telefone": "(33) 4444-4444",
       "isActive": true,
       "autenticacaoId": "1"
+    },
+    {
+      "id": "3",
+      "nomeFantasia": "Eixo Profundo Construtora",
+      "razaoSocial": "Nome Reduzido",
+      "cnpj": "22.222.222/2222-22",
+      "solicitante": "",
+      "nome": "Louise de Assis Sidorco",
+      "email": "usuario@sys4b.com.br",
+      "telefone": "(33) 5555-5555",
+      "isActive": true,
+      "autenticacaoId": "2"
+    },
+    {
+      "id": "4",
+      "nomeFantasia": "Fundação Segura Construtora",
+      "razaoSocial": "Nome Reduzido",
+      "cnpj": "33.333.333/3333-33",
+      "solicitante": "",
+      "nome": "Jan Gabriel de Sa Bittencourt Camara",
+      "email": "usuario@sys4b.com.br",
+      "telefone": "(33) 6666-6666",
+      "isActive": true,
+      "autenticacaoId": "2"
+    },
+    {
+      "id": "5",
+      "nomeFantasia": "Radix Engenharia Subterrânea",
+      "razaoSocial": "Nome Reduzido",
+      "cnpj": "44.444.444/4444-44",
+      "solicitante": "",
+      "nome": "Jayme Lopes Abreu",
+      "email": "usuario@sys4b.com.br",
+      "telefone": "(33) 7777-7777",
+      "isActive": true,
+      "autenticacaoId": "2"
     }
   ],
   "usuarios": [
@@ -209,7 +290,7 @@
       "isAcompanhamento": true,
       "arquivo": null,
       "observacoes": "Testando a exclusão de anexo com envio null e mensagem de sucesso",
-      "autenticacaoId": "1"
+      "autenticacaoId": "2"
     }
   ]
 }
